@@ -3001,19 +3001,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TinDinh\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
+      "projectUniqueName": "D:\\PRN211\\C#\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
       "projectName": "ESMSWinApp",
-      "projectPath": "D:\\C#\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
-      "packagesPath": "C:\\Users\\TinDinh\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\ESMS_System\\ESMSWinApp\\obj\\",
+      "projectPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TinDinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3027,11 +3027,11 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "D:\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj": {
-              "projectPath": "D:\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj"
+            "D:\\PRN211\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj": {
+              "projectPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj"
             },
-            "D:\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj": {
-              "projectPath": "D:\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj"
+            "D:\\PRN211\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj": {
+              "projectPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj"
             }
           }
         }
@@ -3074,7 +3074,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
