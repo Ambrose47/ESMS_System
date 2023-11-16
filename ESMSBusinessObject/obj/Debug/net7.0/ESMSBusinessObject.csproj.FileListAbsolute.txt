@@ -12,17 +12,3 @@ C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\refint\ESMS
 C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.pdb
 C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.genruntimeconfig.cache
 C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ref\ESMSBusinessObject.dll
-D:\Clone\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.deps.json
-D:\Clone\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.runtimeconfig.json
-D:\Clone\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.dll
-D:\Clone\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.pdb
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.csproj.AssemblyReference.cache
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.GeneratedMSBuildEditorConfig.editorconfig
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.AssemblyInfoInputs.cache
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.AssemblyInfo.cs
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.csproj.CoreCompileInputs.cache
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.dll
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\refint\ESMSBusinessObject.dll
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.pdb
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.genruntimeconfig.cache
-D:\Clone\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ref\ESMSBusinessObject.dll
