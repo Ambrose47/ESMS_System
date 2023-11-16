@@ -28,21 +28,28 @@ namespace ESMSWinApp
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            string checkRoom = txtExamScheduleRoom.Text.Substring(1, 3);
+            
             try
             {
                 //string company = sup.GetCompanyByID(txtSupplier.Text);
                 if (!isValidDataInput())
                 {
                     MessageBox.Show("Must input all field");
-                } else if(int.Parse(txtExamScheduleRoom.Text) > 700 || int.Parse(txtExamScheduleRoom.Text) < 0)
+                } else if(iExamScheduleRepository.GetAirConditionerByID(int.Parse(txtExamScheduleID.Text)) != null && AddOrUpdate == false)
+                {
+                    MessageBox.Show("ID Invalid");
+                }
+                else if(int.Parse(txtExamScheduleRoom.Text) > 700 || int.Parse(txtExamScheduleRoom.Text) < 0)
                 {
                     MessageBox.Show("Room is number less than 700");
-                }else if (int.Parse(checkRoom) < 0 || int.Parse(checkRoom) > 40)
+                }else if (int.Parse(txtExamScheduleRoom.Text.Substring(1, 2)) < 0 || int.Parse(txtExamScheduleRoom.Text.Substring(1, 2)) > 40)
                 {
                     MessageBox.Show("Don't have room > 40");
+                }else if (Regex.IsMatch(txtExamScheduleLecturer.Text, "[A-Z]{2}[0-9]{6}") == true)
+                {
+                    MessageBox.Show("Lecturer don't same form");
                 }
-               
+
                 else if (isValidDataInput())
                 {
                     var ac = new ExamSchedule
@@ -66,14 +73,8 @@ namespace ESMSWinApp
                         this.Close();
                     }
                 }
-                if(Regex.IsMatch(txtExamScheduleLecturer.Text, "[A-Z]{2}[0-9]{4}"))
-                {
-                    
-                }
-                else
-                {
-                    MessageBox.Show("ivalid id lecture");
-                }
+                
+
             }
             catch (Exception ex)
             {
