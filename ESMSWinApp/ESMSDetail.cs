@@ -33,6 +33,9 @@ namespace ESMSWinApp
                 if (!isValidDataInput())
                 {
                     MessageBox.Show("Must input all field");
+                } else if(int.Parse(txtExamScheduleRoom.Text) > 700)
+                {
+                    MessageBox.Show("Room is number less than 700");
                 }
 
                 else if (isValidDataInput())

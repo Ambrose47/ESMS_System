@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj",
         "projectName": "ESMSBusinessObject",
         "projectPath": "D:\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj",
-        "packagesPath": "C:\\Users\\HA CONG HIEU\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\TinDinh\\.nuget\\packages\\",
         "outputPath": "D:\\C#\\ESMS_System\\ESMSBusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HA CONG HIEU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TinDinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -95,11 +95,11 @@
         "projectUniqueName": "D:\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj",
         "projectName": "ESMSDataAccess",
         "projectPath": "D:\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj",
-        "packagesPath": "C:\\Users\\HA CONG HIEU\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\TinDinh\\.nuget\\packages\\",
         "outputPath": "D:\\C#\\ESMS_System\\ESMSDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HA CONG HIEU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TinDinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
