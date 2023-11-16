@@ -1,0 +1,14 @@
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.deps.json
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.runtimeconfig.json
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.dll
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\bin\Debug\net7.0\ESMSBusinessObject.pdb
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.csproj.AssemblyReference.cache
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.AssemblyInfoInputs.cache
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.AssemblyInfo.cs
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.csproj.CoreCompileInputs.cache
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.dll
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\refint\ESMSBusinessObject.dll
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.pdb
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ESMSBusinessObject.genruntimeconfig.cache
+C:\Code\AssigmentPrn\ESMS_System\ESMSBusinessObject\obj\Debug\net7.0\ref\ESMSBusinessObject.dll

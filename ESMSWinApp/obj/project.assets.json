@@ -3001,19 +3001,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\MyMy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN211\\C#\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
+      "projectUniqueName": "C:\\Code\\AssigmentPrn\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
       "projectName": "ESMSWinApp",
-      "projectPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSWinApp\\obj\\",
+      "projectPath": "C:\\Code\\AssigmentPrn\\ESMS_System\\ESMSWinApp\\ESMSWinApp.csproj",
+      "packagesPath": "C:\\Users\\MyMy\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\AssigmentPrn\\ESMS_System\\ESMSWinApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MyMy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3021,17 +3026,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "D:\\PRN211\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj": {
-              "projectPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj"
+            "C:\\Code\\AssigmentPrn\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj": {
+              "projectPath": "C:\\Code\\AssigmentPrn\\ESMS_System\\ESMSBusinessObject\\ESMSBusinessObject.csproj"
             },
-            "D:\\PRN211\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj": {
-              "projectPath": "D:\\PRN211\\C#\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj"
+            "C:\\Code\\AssigmentPrn\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj": {
+              "projectPath": "C:\\Code\\AssigmentPrn\\ESMS_System\\ESMSDataAccess\\ESMSDataAccess.csproj"
             }
           }
         }
@@ -3074,7 +3080,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
